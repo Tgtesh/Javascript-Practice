@@ -18,3 +18,4 @@ let nm=parseInt(number);
 let nm2=parseInt(number2);
 let sum=nm+nm2;
 alert(`the total is: ${sum}`)
+
